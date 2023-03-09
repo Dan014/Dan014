@@ -20,8 +20,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### My Dev Card 📖
-<a href="https://app.daily.dev/Dan01420"><img src="https://api.daily.dev/devcards/e17abaed63af42f4908684171ee9cba5.png?r=0qw" width="400" alt="Daniel Felipe Garcia Lopez's Dev Card"/></a>
-
+<a href="https://app.daily.dev/Dan01420"><img src="https://api.daily.dev/devcards/e17abaed63af42f4908684171ee9cba5.png?r=i05" width="400" alt="Daniel Felipe Garcia Lopez's Dev Card"/></a>
 ---
 [![](https://visitcount.itsvg.in/api?id=Dan014&icon=0&color=0)](https://visitcount.itsvg.in)
 
